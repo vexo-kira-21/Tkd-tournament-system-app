@@ -1,8 +1,8 @@
-name: Build Android APK
+name: TKD TOURNAMENT SYSTEM 
 
 on:
   push:
-    branches: [ main, master ]
+    branches: vexo-kira-21 
   workflow_dispatch:
 
 jobs:
