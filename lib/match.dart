@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import '../services/socket.dart';
+import 'socket.dart';
 
 class MatchScreen extends StatelessWidget {
   final socket = SocketService();
